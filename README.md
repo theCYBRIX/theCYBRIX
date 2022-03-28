@@ -1,0 +1,3 @@
+- @theCYBRIX
+- interested in general programming
+- currently learning computer science
