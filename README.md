@@ -1,3 +1,3 @@
 - @theCYBRIX
-- interested in general programming
-- currently learning computer science
+- interested in general applied programming
+- currently studying computer science
