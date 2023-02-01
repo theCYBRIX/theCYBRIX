@@ -1,3 +1,3 @@
 - @theCYBRIX
 - interested in general applied computer science
-- currently studying computer science
+- currently studying computer science at the University of Manitoba
