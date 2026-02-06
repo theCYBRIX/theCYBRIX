@@ -1,3 +1,2 @@
 - @theCYBRIX
-- Computer science student at the University of Manitoba
 - Just a dude who likes to code
